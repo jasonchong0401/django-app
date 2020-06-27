@@ -25,7 +25,7 @@ SECRET_KEY = 'wc_(!=(l@#6#d=8cd+uwu20r*euzn9fvaqqn1@019p$zpfle=u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.31.100']
 
 
 # Application definition
